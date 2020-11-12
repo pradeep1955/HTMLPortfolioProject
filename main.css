@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    text-align: center;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+.header, .contact {
+    background-color: blanchedalmond;
+} 
+
+
+
+
+.tagline {
+    background-color: brown;
+    color: blanchedalmond;
+}
+
+
+
+
+.skills {
+    background-color: #ff9999ff;
+    color: aqua;
+}
